@@ -32,7 +32,7 @@
 
 ## Sobre ##
 
-Este projeto com objetivo testar suas habilidades e conhecimento de automação de teste a nilve de interface do usuario, testes de integração de serviços.
+Este projeto com objetivo testar suas habilidades e conhecimento de automação de teste a nivel de interface do usuario, testes de integração de serviços.
 
 ##  Características ##
 
